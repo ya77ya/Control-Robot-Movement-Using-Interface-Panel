@@ -6,6 +6,10 @@ Design an interface to control the movement of the robot which could be in (forw
 ![1](https://github.com/ya77ya/Control-Robot-Movement-Using-Interface-Panel/assets/90250848/2c5afb7c-9e02-429b-9644-107bcb7ee800)
 
 
+![FormatFactory Screen Record٢٠٢٣٠٧١٩_٢٢٢١٠٥](https://github.com/ya77ya/Control-Robot-Movement-Using-Interface-Panel/assets/90250848/5dd580be-ae9e-4940-ad19-dc6a211238f2)
+
+
+
 ## Pre-requisites
  To be able to send and get data from the MYSQL database we have to install MYSQL database, you can use [XAMPP](https://www.apachefriends.org/) which I an open-source cross-platform web server
  
